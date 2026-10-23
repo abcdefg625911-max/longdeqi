@@ -14,6 +14,8 @@
 
 前往 [GitHub Releases](https://github.com/abcdefg625911-max/longdeqi/releases)，根据 Release 标题选择对应的 Minecraft 版本和加载器。每个 Release 只包含该版本的 JAR 与匹配的源码 ZIP；不要把不同版本的文件混用。
 
+不要下载 GitHub 自动生成的 `Source code.zip` 或 `Source code.tar.gz`；对应模组源码请下载该 Release 附带的 `-源码.zip` 文件。
+
 将所选 JAR 放入对应游戏实例的 `mods` 文件夹。多人游戏需在客户端和服务器安装相匹配的模组版本。
 
 模组包含隆德齐、话筒、混音台、表演动作与音乐内容。详细安装说明、素材来源及验证范围见 `docs` 文件夹。
